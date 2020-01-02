@@ -10,4 +10,6 @@ int main()
 	scanf("%d",&a2);
 	
 	printf("Sonuc: %d",a1+a2);
+	
+	system("pause");
 }
